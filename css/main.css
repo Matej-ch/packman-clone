@@ -169,7 +169,7 @@ display: flex;
   height: 20px;
 }
 
-.pack-dot {
+.pac-dot {
   background-color: greenyellow;
   border: 5px solid white;
   box-sizing: border-box;
@@ -187,4 +187,29 @@ display: flex;
 .pack-man {
   background-color: yellow;
   border-radius: 10px;
+}
+
+.blinky {
+  border: 0;
+  background-color: red;
+}
+
+.pinky {
+  border: 0;
+  background-color:pink;
+}
+
+.inky {
+  border: 0;
+  background-color: cyan;
+}
+
+.clyde {
+  border: 0;
+  background-color: orange;
+}
+
+.scared-ghost {
+  background-color: aquamarine;
+  border: 0;
 }
